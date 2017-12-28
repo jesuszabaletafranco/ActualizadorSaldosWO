@@ -1,0 +1,54 @@
+[
+  {
+    "Nombre": "Parklog_Conexion_Remota",
+    "Servidor": "190.7.139.101\\WORLDOFFICE",
+    "BaseDeDatos": "WData",
+    "Usuario": "cayos",
+    "Clave": "*12345678*",
+    "NumeroMeses": 0,
+    "NumeroCuentas": 0,
+    "NivelCuenta": 6,
+    "FechaInicial": "2016-01-01T11:31:43.7651149-05:00",
+    "FechaFinal": "0001-01-01T00:00:00",
+    "EsNiif": true,
+    "Tarea": null
+  },
+  {
+    "Nombre": "CONEXION-FUNRECAR-LOCAL",
+    "Servidor": "WIN7-SERVER\\SQLEXPRESS",
+    "BaseDeDatos": "WData",
+    "Usuario": "sa",
+    "Clave": "981190",
+    "NumeroMeses": 12,
+    "NumeroCuentas": 2305,
+    "NivelCuenta": 6,
+    "FechaInicial": "2012-01-01T00:00:00",
+    "FechaFinal": "2017-12-31T00:00:00",
+    "EsNiif": false,
+    "Tarea": {
+      "Dias": [
+        {
+          "Codigo": 1,
+          "Nombre": "Lunes"
+        },
+        {
+          "Codigo": 2,
+          "Nombre": "Martes"
+        },
+        {
+          "Codigo": 3,
+          "Nombre": "Miercoles"
+        },
+        {
+          "Codigo": 4,
+          "Nombre": "Jueves"
+        },
+        {
+          "Codigo": 5,
+          "Nombre": "Viernes"
+        }
+      ],
+      "Hora": "2017-12-28T15:18:13"
+    }
+  }
+]
